@@ -52,3 +52,5 @@ Assuming you have node installed you should be able to run the repository with
 npm install
 npm start
 ```
+
+You can also view the code live at [https://vigorous-keller-7b65e5.netlify.com/](https://vigorous-keller-7b65e5.netlify.com/)
