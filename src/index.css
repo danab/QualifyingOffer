@@ -1,0 +1,63 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+#wrapper {
+	margin: 4rem auto;
+	width: 600px;
+}
+
+.loader {
+	margin-top: 10rem;
+	text-align: center;
+}
+
+/* When you are too lazy to find the perfect spinner... */
+.pulse {
+	animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+	0% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0.2;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+.histogram-wrapper {
+	position: relative;
+}
+.histogram-wrapper h2 {
+	float: left;
+	margin-bottom: 0;
+}
+.histogram-wrapper h4 {
+	float: right;
+	margin-bottom: 0;
+}
+.histogram-controls {
+	position: absolute;
+	top: 5rem;
+	right: 0;
+	width: 160px;
+}
+.histogram-controls div {
+	margin-bottom: 0.2rem;
+}
+.histogram-controls label {
+	font-size: 80%;
+}
+
+.histogram {
+	height: 500px;
+	margin-top: 1.45rem;
+}
