@@ -1,0 +1,4834 @@
+[
+	{
+		"player": "Abreu, Jose",
+		"salary": 11666667
+	},
+	{
+		"player": "Acevedo, Andury",
+		"salary": 507500
+	},
+	{
+		"player": "Ackley, Dustin",
+		"salary": 3200000
+	},
+	{
+		"player": "Adames, Cristhian",
+		"salary": null
+	},
+	{
+		"player": "Adams, Austin",
+		"salary": 507500
+	},
+	{
+		"player": "Adams, Matt",
+		"salary": 1650000
+	},
+	{
+		"player": "Adrianza, Ehire",
+		"salary": 507500
+	},
+	{
+		"player": "Aguilar, Jesus",
+		"salary": 507500
+	},
+	{
+		"player": "Ahmed, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Albers, Matt",
+		"salary": 2000000
+	},
+	{
+		"player": "Alberto, Hanser",
+		"salary": 507500
+	},
+	{
+		"player": "Alburquerque, Al",
+		"salary": 1100000
+	},
+	{
+		"player": "Alcantara, Arismendy",
+		"salary": 507500
+	},
+	{
+		"player": "Alcantara, Raul",
+		"salary": 507500
+	},
+	{
+		"player": "Alcantara, Victor",
+		"salary": 507500
+	},
+	{
+		"player": "Alexander, Scott",
+		"salary": 507500
+	},
+	{
+		"player": "Alfaro, Jorge",
+		"salary": 507500
+	},
+	{
+		"player": "Allen, Cody",
+		"salary": 4150000
+	},
+	{
+		"player": "Almonte, Abraham",
+		"salary": 507500
+	},
+	{
+		"player": "Almonte, Miguel",
+		"salary": 507500
+	},
+	{
+		"player": "Alonso, Yonder",
+		"salary": 2650000
+	},
+	{
+		"player": "Altherr, Aaron",
+		"salary": 507500
+	},
+	{
+		"player": "Altuve, Jose",
+		"salary": 3687500
+	},
+	{
+		"player": "Alvarez, Dariel",
+		"salary": 507500
+	},
+	{
+		"player": "Alvarez, Dario",
+		"salary": null
+	},
+	{
+		"player": "Alvarez, Henderson",
+		"salary": 4250000
+	},
+	{
+		"player": "Alvarez, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Alvarez, R.J.",
+		"salary": 507500
+	},
+	{
+		"player": "Amarista, Alexi",
+		"salary": 1350000
+	},
+	{
+		"player": "Anderson, Brett",
+		"salary": 15800000
+	},
+	{
+		"player": "Anderson, Chase",
+		"salary": 507500
+	},
+	{
+		"player": "Anderson, Cody",
+		"salary": 507500
+	},
+	{
+		"player": "Anderson, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Andriese, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Andrus, Elvis",
+		"salary": 15250000
+	},
+	{
+		"player": "Anna, Dean",
+		"salary": 507500
+	},
+	{
+		"player": "Aoki, Nori",
+		"salary": 5500000
+	},
+	{
+		"player": "Aplin, Andrew",
+		"salary": null
+	},
+	{
+		"player": "Aquino, Jayson",
+		"salary": 507500
+	},
+	{
+		"player": "Araujo, Elvis",
+		"salary": 507500
+	},
+	{
+		"player": "Archer, Chris",
+		"salary": 2916667
+	},
+	{
+		"player": "Arcia, Orlando",
+		"salary": 507500
+	},
+	{
+		"player": "Arcia, Oswaldo",
+		"salary": 507500
+	},
+	{
+		"player": "Arenado, Nolan",
+		"salary": 5000000
+	},
+	{
+		"player": "Armstrong, Shawn",
+		"salary": 507500
+	},
+	{
+		"player": "Aro, Jonathan",
+		"salary": 507500
+	},
+	{
+		"player": "Arrieta, Jake",
+		"salary": 10700000
+	},
+	{
+		"player": "Asche, Cody",
+		"salary": 507500
+	},
+	{
+		"player": "Asher, Alec",
+		"salary": 507500
+	},
+	{
+		"player": "Avila, Alex",
+		"salary": 2500000
+	},
+	{
+		"player": "Avilan, Luis",
+		"salary": 1390000
+	},
+	{
+		"player": "Aviles, Mike",
+		"salary": 2000000
+	},
+	{
+		"player": "Axford, John",
+		"salary": 4500000
+	},
+	{
+		"player": "Aybar, Erick",
+		"salary": 8750000
+	},
+	{
+		"player": "Baez, Javier",
+		"salary": 507500
+	},
+	{
+		"player": "Baez, Pedro",
+		"salary": 507500
+	},
+	{
+		"player": "Bailey, Homer",
+		"salary": 18000000
+	},
+	{
+		"player": "Baker, Dylan",
+		"salary": 507500
+	},
+	{
+		"player": "Bandy, Jett",
+		"salary": 507500
+	},
+	{
+		"player": "Banuelos, Manny",
+		"salary": 507500
+	},
+	{
+		"player": "Barbato, Johnny",
+		"salary": 507500
+	},
+	{
+		"player": "Barnes, Austin",
+		"salary": 507500
+	},
+	{
+		"player": "Barnes, Brandon",
+		"salary": 507500
+	},
+	{
+		"player": "Barnes, Jacob",
+		"salary": 507500
+	},
+	{
+		"player": "Barnes, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Barnette, Tony",
+		"salary": 1500000
+	},
+	{
+		"player": "Barney, Darwin",
+		"salary": 1050000
+	},
+	{
+		"player": "Barnhart, Tucker",
+		"salary": 507500
+	},
+	{
+		"player": "Baron, Steve",
+		"salary": 507500
+	},
+	{
+		"player": "Barraclough, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Barrett, Aaron",
+		"salary": 507500
+	},
+	{
+		"player": "Barrett, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Barrios, Yhonathan",
+		"salary": 507500
+	},
+	{
+		"player": "Bassitt, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Bastardo, Antonio",
+		"salary": 5375000
+	},
+	{
+		"player": "Bauer, Trevor",
+		"salary": 507500
+	},
+	{
+		"player": "Baumann, Buddy",
+		"salary": 507500
+	},
+	{
+		"player": "Bautista, Jose",
+		"salary": null
+	},
+	{
+		"player": "Beck, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Beckham, Gordon",
+		"salary": 1250000
+	},
+	{
+		"player": "Beckham, Tim",
+		"salary": 507500
+	},
+	{
+		"player": "Bedrosian, Cam",
+		"salary": 507500
+	},
+	{
+		"player": "Beeler, Dallas",
+		"salary": 507500
+	},
+	{
+		"player": "Bell, Josh",
+		"salary": 507500
+	},
+	{
+		"player": "Bellatti, Andrew",
+		"salary": 507500
+	},
+	{
+		"player": "Belt, Brandon",
+		"salary": 6200000
+	},
+	{
+		"player": "Beltran, Carlos",
+		"salary": 15000000
+	},
+	{
+		"player": "Beltre, Adrian",
+		"salary": 18000000
+	},
+	{
+		"player": "Benoit, Joaquin",
+		"salary": 7500000
+	},
+	{
+		"player": "Bergman, Christian",
+		"salary": 507500
+	},
+	{
+		"player": "Bernard, Wynton",
+		"salary": 507500
+	},
+	{
+		"player": "Berry, Tim",
+		"salary": 507500
+	},
+	{
+		"player": "Betances, Dellin",
+		"salary": 507500
+	},
+	{
+		"player": "Bethancourt, Christian",
+		"salary": 507500
+	},
+	{
+		"player": "Bettis, Chad",
+		"salary": 507500
+	},
+	{
+		"player": "Betts, Mookie",
+		"salary": 507500
+	},
+	{
+		"player": "Biagini, Joe",
+		"salary": 507500
+	},
+	{
+		"player": "Biddle, Jesse",
+		"salary": 507500
+	},
+	{
+		"player": "Bird, Greg",
+		"salary": 507500
+	},
+	{
+		"player": "Blach, Ty",
+		"salary": null
+	},
+	{
+		"player": "Black, Ray",
+		"salary": 507500
+	},
+	{
+		"player": "Blackburn, Clayton",
+		"salary": 507500
+	},
+	{
+		"player": "Blackmon, Charlie",
+		"salary": 3500000
+	},
+	{
+		"player": "Blanco, Andres",
+		"salary": 1450000
+	},
+	{
+		"player": "Blanco, Gregor",
+		"salary": 3900000
+	},
+	{
+		"player": "Blanton, Joe",
+		"salary": 4000000
+	},
+	{
+		"player": "Blash, Jabari",
+		"salary": 507500
+	},
+	{
+		"player": "Blazek, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Blevins, Jerry",
+		"salary": 4000000
+	},
+	{
+		"player": "Bogaerts, Xander",
+		"salary": 507500
+	},
+	{
+		"player": "Bolsinger, Mike",
+		"salary": 507500
+	},
+	{
+		"player": "Bonifacio, Emilio",
+		"salary": 1250000
+	},
+	{
+		"player": "Bonifacio, Jorge",
+		"salary": 507500
+	},
+	{
+		"player": "Bostick, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Bour, Justin",
+		"salary": 507500
+	},
+	{
+		"player": "Bourjos, Peter",
+		"salary": 2000000
+	},
+	{
+		"player": "Bourn, Michael",
+		"salary": null
+	},
+	{
+		"player": "Bowman, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Boxberger, Brad",
+		"salary": 507500
+	},
+	{
+		"player": "Boyd, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Brach, Brad",
+		"salary": 1250000
+	},
+	{
+		"player": "Bracho, Silvino",
+		"salary": 507500
+	},
+	{
+		"player": "Bradley, Archie",
+		"salary": 507500
+	},
+	{
+		"player": "Bradley, Jackie Jr.",
+		"salary": 507500
+	},
+	{
+		"player": "Brantley, Michael",
+		"salary": 7375000
+	},
+	{
+		"player": "Brantly, Rob",
+		"salary": 507500
+	},
+	{
+		"player": "Braun, Ryan",
+		"salary": 20000000
+	},
+	{
+		"player": "Brennan, Brandon",
+		"salary": 507500
+	},
+	{
+		"player": "Brentz, Bryce",
+		"salary": 507500
+	},
+	{
+		"player": "Brett, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Brice, Austin",
+		"salary": 507500
+	},
+	{
+		"player": "Bridwell, Parker",
+		"salary": 507500
+	},
+	{
+		"player": "Brito, Socrates",
+		"salary": 507500
+	},
+	{
+		"player": "Britton, Zach",
+		"salary": 6750000
+	},
+	{
+		"player": "Broadway, Mike",
+		"salary": 507500
+	},
+	{
+		"player": "Brooks, Aaron",
+		"salary": 507500
+	},
+	{
+		"player": "Brothers, Rex",
+		"salary": 1420000
+	},
+	{
+		"player": "Brown, Brooks",
+		"salary": 507500
+	},
+	{
+		"player": "Brown, Trevor",
+		"salary": 507500
+	},
+	{
+		"player": "Broxton, Jonathan",
+		"salary": 3750000
+	},
+	{
+		"player": "Broxton, Keon",
+		"salary": 507500
+	},
+	{
+		"player": "Bruce, Jay",
+		"salary": 12541667
+	},
+	{
+		"player": "Bryant, Kris",
+		"salary": 507500
+	},
+	{
+		"player": "Buchanan, David",
+		"salary": null
+	},
+	{
+		"player": "Buchholz, Clay",
+		"salary": 13000000
+	},
+	{
+		"player": "Buchter, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Bumgarner, Madison",
+		"salary": 9950000
+	},
+	{
+		"player": "Bundy, Dylan",
+		"salary": 507500
+	},
+	{
+		"player": "Burawa, Danny",
+		"salary": 507500
+	},
+	{
+		"player": "Burgos, Enrique",
+		"salary": 507500
+	},
+	{
+		"player": "Burns, Billy",
+		"salary": 507500
+	},
+	{
+		"player": "Butera, Drew",
+		"salary": 1162500
+	},
+	{
+		"player": "Butler, Billy",
+		"salary": 11666667
+	},
+	{
+		"player": "Butler, Eddie",
+		"salary": 507500
+	},
+	{
+		"player": "Butler, Joey",
+		"salary": 507500
+	},
+	{
+		"player": "Buxton, Byron",
+		"salary": 507500
+	},
+	{
+		"player": "Cabrera, Asdrubal",
+		"salary": 8250000
+	},
+	{
+		"player": "Cabrera, Mauricio",
+		"salary": 507500
+	},
+	{
+		"player": "Cabrera, Melky",
+		"salary": 14000000
+	},
+	{
+		"player": "Cabrera, Miguel",
+		"salary": 28000000
+	},
+	{
+		"player": "Cabrera, Ramon",
+		"salary": 507500
+	},
+	{
+		"player": "Cahill, Trevor",
+		"salary": 4250000
+	},
+	{
+		"player": "Cain, Lorenzo",
+		"salary": 6500000
+	},
+	{
+		"player": "Cain, Matt",
+		"salary": 20833333
+	},
+	{
+		"player": "Calhoun, Kole",
+		"salary": 3400000
+	},
+	{
+		"player": "Caminero, Arquimedes",
+		"salary": 507500
+	},
+	{
+		"player": "Campbell, Eric",
+		"salary": 507500
+	},
+	{
+		"player": "Campos, Leonel",
+		"salary": 507500
+	},
+	{
+		"player": "Campos, Vicente",
+		"salary": 507500
+	},
+	{
+		"player": "Candelario, Jeimer",
+		"salary": 507500
+	},
+	{
+		"player": "Canha, Mark",
+		"salary": 507500
+	},
+	{
+		"player": "Cano, Robinson",
+		"salary": 24000000
+	},
+	{
+		"player": "Capps, Carter",
+		"salary": 987500
+	},
+	{
+		"player": "Carpenter, Matt",
+		"salary": 6500000
+	},
+	{
+		"player": "Carrasco, Carlos",
+		"salary": 4500000
+	},
+	{
+		"player": "Carrera, Ezequiel",
+		"salary": 507500
+	},
+	{
+		"player": "Carroll, Scott",
+		"salary": 507500
+	},
+	{
+		"player": "Carter, Chris",
+		"salary": 2500000
+	},
+	{
+		"player": "Casali, Curt",
+		"salary": 507500
+	},
+	{
+		"player": "Cashner, Andrew",
+		"salary": 7150000
+	},
+	{
+		"player": "Casilla, Santiago",
+		"salary": null
+	},
+	{
+		"player": "Castellanos, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Castillo, Rusney",
+		"salary": 11271429
+	},
+	{
+		"player": "Castillo, Welington",
+		"salary": 3700000
+	},
+	{
+		"player": "Castro, Daniel",
+		"salary": 507500
+	},
+	{
+		"player": "Castro, Jason",
+		"salary": 5000000
+	},
+	{
+		"player": "Castro, Miguel",
+		"salary": null
+	},
+	{
+		"player": "Castro, Starlin",
+		"salary": 7857143
+	},
+	{
+		"player": "Cave, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Cecchini, Garin",
+		"salary": 507500
+	},
+	{
+		"player": "Cecil, Brett",
+		"salary": 3800000
+	},
+	{
+		"player": "Ceciliani, Darrell",
+		"salary": 507500
+	},
+	{
+		"player": "Cedeno, Xavier",
+		"salary": 507500
+	},
+	{
+		"player": "Cervelli, Francisco",
+		"salary": 3500000
+	},
+	{
+		"player": "Cespedes, Yoenis",
+		"salary": 20833333
+	},
+	{
+		"player": "Cessa, Luis",
+		"salary": 507500
+	},
+	{
+		"player": "Chafin, Andrew",
+		"salary": 507500
+	},
+	{
+		"player": "Chapman, Aroldis",
+		"salary": 11325000
+	},
+	{
+		"player": "Chapman, Kevin",
+		"salary": 507500
+	},
+	{
+		"player": "Chargois, J.T.",
+		"salary": 507500
+	},
+	{
+		"player": "Chatwood, Tyler",
+		"salary": 1000000
+	},
+	{
+		"player": "Chavez, Jesse",
+		"salary": 4000000
+	},
+	{
+		"player": "Chen, Wei-Yin",
+		"salary": 8600000
+	},
+	{
+		"player": "Chirinos, Robinson",
+		"salary": 1550000
+	},
+	{
+		"player": "Chisenhall, Lonnie",
+		"salary": 2725000
+	},
+	{
+		"player": "Choi, Ji-Man",
+		"salary": 507500
+	},
+	{
+		"player": "Choo, Shin-Soo",
+		"salary": 20000000
+	},
+	{
+		"player": "Cingrani, Tony",
+		"salary": 507500
+	},
+	{
+		"player": "Cishek, Steve",
+		"salary": null
+	},
+	{
+		"player": "Claudio, Alex",
+		"salary": 507500
+	},
+	{
+		"player": "Clevenger, Steve",
+		"salary": 507500
+	},
+	{
+		"player": "Clevinger, Mike",
+		"salary": 507500
+	},
+	{
+		"player": "Clippard, Tyler",
+		"salary": 6100000
+	},
+	{
+		"player": "Cobb, Alex",
+		"salary": 4000000
+	},
+	{
+		"player": "Coghlan, Chris",
+		"salary": null
+	},
+	{
+		"player": "Colabello, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Cole, A.J.",
+		"salary": 507500
+	},
+	{
+		"player": "Cole, Gerrit",
+		"salary": 541000
+	},
+	{
+		"player": "Coleman, Louis",
+		"salary": 750000
+	},
+	{
+		"player": "Collins, Tim",
+		"salary": 1475000
+	},
+	{
+		"player": "Collins, Tyler",
+		"salary": null
+	},
+	{
+		"player": "Collmenter, Josh",
+		"salary": 1850000
+	},
+	{
+		"player": "Colome, Alex",
+		"salary": 507500
+	},
+	{
+		"player": "Colon, Bartolo",
+		"salary": 7250000
+	},
+	{
+		"player": "Colon, Christian",
+		"salary": 518425
+	},
+	{
+		"player": "Conforto, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Conger, Hank",
+		"salary": 1500000
+	},
+	{
+		"player": "Conley, Adam",
+		"salary": 507500
+	},
+	{
+		"player": "Contreras, Carlos",
+		"salary": 507500
+	},
+	{
+		"player": "Contreras, Willson",
+		"salary": 507500
+	},
+	{
+		"player": "Cook, Ryan",
+		"salary": 1100000
+	},
+	{
+		"player": "Cooney, Tim",
+		"salary": 507500
+	},
+	{
+		"player": "Corbin, Patrick",
+		"salary": 2525000
+	},
+	{
+		"player": "Cordero, Jimmy",
+		"salary": 507500
+	},
+	{
+		"player": "Correa, Carlos",
+		"salary": 507500
+	},
+	{
+		"player": "Cosart, Jarred",
+		"salary": 507500
+	},
+	{
+		"player": "Cotham, Caleb",
+		"salary": 507500
+	},
+	{
+		"player": "Cotton, Jharel",
+		"salary": 507500
+	},
+	{
+		"player": "Cowart, Kaleb",
+		"salary": 507500
+	},
+	{
+		"player": "Cowgill, Collin",
+		"salary": 1000000
+	},
+	{
+		"player": "Coyle, Sean",
+		"salary": 507500
+	},
+	{
+		"player": "Cozart, Zack",
+		"salary": 2925000
+	},
+	{
+		"player": "Craig, Allen",
+		"salary": 9000000
+	},
+	{
+		"player": "Cravy, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Crawford, Brandon",
+		"salary": 6000000
+	},
+	{
+		"player": "Crawford, Carl",
+		"salary": 21607143
+	},
+	{
+		"player": "Crick, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Crisp, Covelli",
+		"salary": 11000000
+	},
+	{
+		"player": "Crockett, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Cron, C.J.",
+		"salary": 507500
+	},
+	{
+		"player": "Cruz, Nelson",
+		"salary": null
+	},
+	{
+		"player": "Cruz, Tony",
+		"salary": 507500
+	},
+	{
+		"player": "Cueto, Johnny",
+		"salary": 15833333
+	},
+	{
+		"player": "Cunningham, Todd",
+		"salary": null
+	},
+	{
+		"player": "Cuthbert, Cheslor",
+		"salary": 507500
+	},
+	{
+		"player": "d'Arnaud, Travis",
+		"salary": 507500
+	},
+	{
+		"player": "Danks, John",
+		"salary": 15750000
+	},
+	{
+		"player": "Darvish, Yu",
+		"salary": 10000000
+	},
+	{
+		"player": "Davidson, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Davies, Zach",
+		"salary": 507500
+	},
+	{
+		"player": "Davis, Chris",
+		"salary": 21118782
+	},
+	{
+		"player": "Davis, Khris",
+		"salary": 507500
+	},
+	{
+		"player": "Davis, Rajai",
+		"salary": 5250000
+	},
+	{
+		"player": "Davis, Rookie",
+		"salary": 507500
+	},
+	{
+		"player": "Davis, Wade",
+		"salary": 8000000
+	},
+	{
+		"player": "De Aza, Alejandro",
+		"salary": 5750000
+	},
+	{
+		"player": "De Fratus, Justin",
+		"salary": 750000
+	},
+	{
+		"player": "De La Rosa, Jorge",
+		"salary": 12500000
+	},
+	{
+		"player": "De La Rosa, Rubby",
+		"salary": 2350000
+	},
+	{
+		"player": "De Los Santos, Abel",
+		"salary": 507500
+	},
+	{
+		"player": "Dean, Pat",
+		"salary": 507500
+	},
+	{
+		"player": "deGrom, Jacob",
+		"salary": 607000
+	},
+	{
+		"player": "DeJesus Jr., Ivan",
+		"salary": 507500
+	},
+	{
+		"player": "Delabar, Steve",
+		"salary": 835000
+	},
+	{
+		"player": "Delgado, Randall",
+		"salary": 1275000
+	},
+	{
+		"player": "den Dekker, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Descalso, Daniel",
+		"salary": 2100000
+	},
+	{
+		"player": "DeSclafani, Anthony",
+		"salary": 507500
+	},
+	{
+		"player": "DeShields Jr., Delino",
+		"salary": 517130
+	},
+	{
+		"player": "Desmond, Ian",
+		"salary": 8000000
+	},
+	{
+		"player": "Despaigne, Odrisamer",
+		"salary": 507500
+	},
+	{
+		"player": "Diaz, Aledmys",
+		"salary": 2500000
+	},
+	{
+		"player": "Diaz, Elias",
+		"salary": null
+	},
+	{
+		"player": "Diaz, Jairo",
+		"salary": 507500
+	},
+	{
+		"player": "Diaz, Jumbo",
+		"salary": 507500
+	},
+	{
+		"player": "Dickerson, Alex",
+		"salary": 507500
+	},
+	{
+		"player": "Dickerson, Corey",
+		"salary": 507500
+	},
+	{
+		"player": "Dickey, R.A.",
+		"salary": 12000000
+	},
+	{
+		"player": "Diekman, Jake",
+		"salary": 1255000
+	},
+	{
+		"player": "Dietrich, Derek",
+		"salary": 507500
+	},
+	{
+		"player": "Difo, Wilmer",
+		"salary": 507500
+	},
+	{
+		"player": "Dominguez, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Donaldson, Josh",
+		"salary": 11650000
+	},
+	{
+		"player": "Doolittle, Sean",
+		"salary": 1580000
+	},
+	{
+		"player": "Doubront, Felix",
+		"salary": null
+	},
+	{
+		"player": "Dozier, Brian",
+		"salary": 3000000
+	},
+	{
+		"player": "Dragmire, Brady",
+		"salary": 507500
+	},
+	{
+		"player": "Drake, Oliver",
+		"salary": 507500
+	},
+	{
+		"player": "Drew, Stephen",
+		"salary": 3000000
+	},
+	{
+		"player": "Drury, Brandon",
+		"salary": 507500
+	},
+	{
+		"player": "Duda, Lucas",
+		"salary": 6725000
+	},
+	{
+		"player": "Duffey, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Duffy, Danny",
+		"salary": 4225000
+	},
+	{
+		"player": "Duffy, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Duffy, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Duke, Zach",
+		"salary": 5000000
+	},
+	{
+		"player": "Dull, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Dunn, Michael",
+		"salary": 3450000
+	},
+	{
+		"player": "Duran, Juan",
+		"salary": 507500
+	},
+	{
+		"player": "Duvall, Adam",
+		"salary": 507500
+	},
+	{
+		"player": "Dyson, Jarrod",
+		"salary": 1725000
+	},
+	{
+		"player": "Dyson, Sam",
+		"salary": 525270
+	},
+	{
+		"player": "Eaton, Adam",
+		"salary": 2750000
+	},
+	{
+		"player": "Edgin, Josh",
+		"salary": 625000
+	},
+	{
+		"player": "Edwards, Carl",
+		"salary": 507500
+	},
+	{
+		"player": "Edwards, Jon",
+		"salary": 507500
+	},
+	{
+		"player": "Eibner, Brett",
+		"salary": 507500
+	},
+	{
+		"player": "Eickhoff, Jerad",
+		"salary": 507500
+	},
+	{
+		"player": "Elias, Roenis",
+		"salary": 507500
+	},
+	{
+		"player": "Ellington, Brian",
+		"salary": 507500
+	},
+	{
+		"player": "Ellis, A.J.",
+		"salary": 4500000
+	},
+	{
+		"player": "Ellsbury, Jacoby",
+		"salary": 21142857
+	},
+	{
+		"player": "Encarnacion, Edwin",
+		"salary": 10000000
+	},
+	{
+		"player": "Eovaldi, Nate",
+		"salary": 5600000
+	},
+	{
+		"player": "Erlin, Robbie",
+		"salary": 507500
+	},
+	{
+		"player": "Esch, Jacob",
+		"salary": 507500
+	},
+	{
+		"player": "Escobar, Alcides",
+		"salary": 5250000
+	},
+	{
+		"player": "Escobar, Eduardo",
+		"salary": 2150000
+	},
+	{
+		"player": "Escobar, Edwin",
+		"salary": 507500
+	},
+	{
+		"player": "Escobar, Yunel",
+		"salary": 7000000
+	},
+	{
+		"player": "Espinosa, Danny",
+		"salary": 2875000
+	},
+	{
+		"player": "Estevez, Carlos",
+		"salary": 507500
+	},
+	{
+		"player": "Estrada, Marco",
+		"salary": 11500000
+	},
+	{
+		"player": "Ethier, Andre",
+		"salary": 18000000
+	},
+	{
+		"player": "Familia, Jeurys",
+		"salary": 4100000
+	},
+	{
+		"player": "Faria, Jacob",
+		"salary": 507500
+	},
+	{
+		"player": "Farmer, Buck",
+		"salary": 507500
+	},
+	{
+		"player": "Farquhar, Danny",
+		"salary": 507500
+	},
+	{
+		"player": "Faulkner, Andrew",
+		"salary": 507500
+	},
+	{
+		"player": "Featherston, Taylor",
+		"salary": 507500
+	},
+	{
+		"player": "Feldman, Scott",
+		"salary": 8000000
+	},
+	{
+		"player": "Feliz, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Feliz, Neftali",
+		"salary": 3900000
+	},
+	{
+		"player": "Fernandez, Jose",
+		"salary": 2800000
+	},
+	{
+		"player": "Ferrell, Jeff",
+		"salary": 507500
+	},
+	{
+		"player": "Fielder, Prince",
+		"salary": 24000000
+	},
+	{
+		"player": "Fields, Daniel",
+		"salary": 507500
+	},
+	{
+		"player": "Fields, Josh",
+		"salary": 900000
+	},
+	{
+		"player": "Fien, Casey",
+		"salary": 2275000
+	},
+	{
+		"player": "Fiers, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Finnegan, Brandon",
+		"salary": 507500
+	},
+	{
+		"player": "Fister, Doug",
+		"salary": 7000000
+	},
+	{
+		"player": "Flaherty, Ryan",
+		"salary": 1500000
+	},
+	{
+		"player": "Flores, Kendry",
+		"salary": 507500
+	},
+	{
+		"player": "Flores, Ramon",
+		"salary": 507500
+	},
+	{
+		"player": "Flores, Wilmer",
+		"salary": 507500
+	},
+	{
+		"player": "Florimon Jr, Pedro",
+		"salary": 507500
+	},
+	{
+		"player": "Flowers, Tyler",
+		"salary": 2000000
+	},
+	{
+		"player": "Floyd, Gavin",
+		"salary": 1000000
+	},
+	{
+		"player": "Flynn, Brian",
+		"salary": 507500
+	},
+	{
+		"player": "Foltynewicz, Mike",
+		"salary": 507500
+	},
+	{
+		"player": "Fontana, Nolan",
+		"salary": 507500
+	},
+	{
+		"player": "Forsythe, Logan",
+		"salary": 2250000
+	},
+	{
+		"player": "Fowler, Dexter",
+		"salary": 8000000
+	},
+	{
+		"player": "Franco, Maikel",
+		"salary": 507500
+	},
+	{
+		"player": "Franklin, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Frazier, Todd",
+		"salary": 8250000
+	},
+	{
+		"player": "Freeman, Freddie",
+		"salary": 12359375
+	},
+	{
+		"player": "Freeman, Sam",
+		"salary": 520700
+	},
+	{
+		"player": "Frias, Carlos",
+		"salary": 507500
+	},
+	{
+		"player": "Fuentes, Reymond",
+		"salary": 507500
+	},
+	{
+		"player": "Fuld, Sam",
+		"salary": 1925000
+	},
+	{
+		"player": "Fulmer, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Furbush, Charlie",
+		"salary": 1600000
+	},
+	{
+		"player": "Gallardo, Yovani",
+		"salary": 9000000
+	},
+	{
+		"player": "Gallo, Joey",
+		"salary": 507500
+	},
+	{
+		"player": "Galvis, Freddy",
+		"salary": 2000000
+	},
+	{
+		"player": "Gamel, Ben",
+		"salary": 507500
+	},
+	{
+		"player": "Gant, John",
+		"salary": null
+	},
+	{
+		"player": "Garcia, Adonis",
+		"salary": 507500
+	},
+	{
+		"player": "Garcia, Anthony",
+		"salary": 507500
+	},
+	{
+		"player": "Garcia, Avisail",
+		"salary": 2100000
+	},
+	{
+		"player": "Garcia, Greg",
+		"salary": 507500
+	},
+	{
+		"player": "Garcia, Jaime",
+		"salary": 11500000
+	},
+	{
+		"player": "Garcia, Jarlin",
+		"salary": 507500
+	},
+	{
+		"player": "Garcia, Jason",
+		"salary": 507500
+	},
+	{
+		"player": "Garcia, Leury",
+		"salary": 507500
+	},
+	{
+		"player": "Garcia, Luis",
+		"salary": 507500
+	},
+	{
+		"player": "Garcia, Willy",
+		"salary": 507500
+	},
+	{
+		"player": "Garcia, Yimi",
+		"salary": 507500
+	},
+	{
+		"player": "Gardeck, Ian",
+		"salary": 507500
+	},
+	{
+		"player": "Gardner, Brett",
+		"salary": 13500000
+	},
+	{
+		"player": "Garneau, Dustin",
+		"salary": 507500
+	},
+	{
+		"player": "Garrett, Amir",
+		"salary": 507500
+	},
+	{
+		"player": "Garza, Matt",
+		"salary": 12500000
+	},
+	{
+		"player": "Gattis, Evan",
+		"salary": 3300000
+	},
+	{
+		"player": "Gausman, Kevin",
+		"salary": 507500
+	},
+	{
+		"player": "Gearrin, Cory",
+		"salary": 507500
+	},
+	{
+		"player": "Geltz, Steve",
+		"salary": 507500
+	},
+	{
+		"player": "Gennett, Scooter",
+		"salary": 507500
+	},
+	{
+		"player": "Gentry, Craig",
+		"salary": 1000000
+	},
+	{
+		"player": "Giavotella, Johnny",
+		"salary": 507500
+	},
+	{
+		"player": "Gibson, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Giles, Ken",
+		"salary": 507500
+	},
+	{
+		"player": "Gillespie, Cole",
+		"salary": 507500
+	},
+	{
+		"player": "Gilmartin, Sean",
+		"salary": 507500
+	},
+	{
+		"player": "Gimenez, Chris",
+		"salary": 975000
+	},
+	{
+		"player": "Givens, Mychal",
+		"salary": 507500
+	},
+	{
+		"player": "Glasnow, Tyler",
+		"salary": null
+	},
+	{
+		"player": "Godley, Zack",
+		"salary": 507500
+	},
+	{
+		"player": "Goebbert, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Goeddel, Erik",
+		"salary": 507500
+	},
+	{
+		"player": "Goeddel, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Goforth, David",
+		"salary": 507500
+	},
+	{
+		"player": "Goins, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Goldschmidt, Paul",
+		"salary": 5850000
+	},
+	{
+		"player": "Gomes, Yan",
+		"salary": 2583333
+	},
+	{
+		"player": "Gomez, Carlos",
+		"salary": 9000000
+	},
+	{
+		"player": "Gomez, Jeanmar",
+		"salary": 1400000
+	},
+	{
+		"player": "Gonzales, Marco",
+		"salary": 507500
+	},
+	{
+		"player": "Gonzalez, Adrian",
+		"salary": 21857143
+	},
+	{
+		"player": "Gonzalez, Alfredo",
+		"salary": 507500
+	},
+	{
+		"player": "Gonzalez, Carlos",
+		"salary": 17428571
+	},
+	{
+		"player": "Gonzalez, Chi Chi",
+		"salary": 507500
+	},
+	{
+		"player": "Gonzalez, Erik",
+		"salary": 507500
+	},
+	{
+		"player": "Gonzalez, Gio",
+		"salary": 12100000
+	},
+	{
+		"player": "Gonzalez, Marwin",
+		"salary": 2000000
+	},
+	{
+		"player": "Gonzalez, Miguel",
+		"salary": 5100000
+	},
+	{
+		"player": "Gonzalez, Severino",
+		"salary": 507500
+	},
+	{
+		"player": "Goodwin, Brian",
+		"salary": 507500
+	},
+	{
+		"player": "Goody, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Gordon, Alex",
+		"salary": 12000000
+	},
+	{
+		"player": "Gordon, Dee",
+		"salary": 3300000
+	},
+	{
+		"player": "Gore, Terrance",
+		"salary": 507500
+	},
+	{
+		"player": "Gose, Anthony",
+		"salary": 507500
+	},
+	{
+		"player": "Gosewisch, Tuffy",
+		"salary": 507500
+	},
+	{
+		"player": "Gosselin, Phil",
+		"salary": 507500
+	},
+	{
+		"player": "Gott, Trevor",
+		"salary": 507500
+	},
+	{
+		"player": "Grace, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Graham, J.R.",
+		"salary": 507500
+	},
+	{
+		"player": "Grandal, Yasmani",
+		"salary": 2800000
+	},
+	{
+		"player": "Granderson, Curtis",
+		"salary": 16000000
+	},
+	{
+		"player": "Graveman, Kendall",
+		"salary": null
+	},
+	{
+		"player": "Gray, Jonathan",
+		"salary": 507500
+	},
+	{
+		"player": "Gray, Sonny",
+		"salary": 507500
+	},
+	{
+		"player": "Greene, Shane",
+		"salary": 507500
+	},
+	{
+		"player": "Gregerson, Luke",
+		"salary": 6250000
+	},
+	{
+		"player": "Gregorio, Joan",
+		"salary": 507500
+	},
+	{
+		"player": "Gregorius, Didi",
+		"salary": 2425000
+	},
+	{
+		"player": "Greinke, Zack",
+		"salary": 34000000
+	},
+	{
+		"player": "Grichuk, Randal",
+		"salary": 507500
+	},
+	{
+		"player": "Grilli, Jason",
+		"salary": 3500000
+	},
+	{
+		"player": "Grimm, Justin",
+		"salary": 1275000
+	},
+	{
+		"player": "Gsellman, Robert",
+		"salary": 507500
+	},
+	{
+		"player": "Guaipe, Mayckol",
+		"salary": 507500
+	},
+	{
+		"player": "Guerra, Deolis",
+		"salary": 507500
+	},
+	{
+		"player": "Guerra, Junior",
+		"salary": 507500
+	},
+	{
+		"player": "Guerrero, Alexander",
+		"salary": null
+	},
+	{
+		"player": "Guerrero, Gabby",
+		"salary": 507500
+	},
+	{
+		"player": "Guerrero, Tayron",
+		"salary": 507500
+	},
+	{
+		"player": "Guerrieri, Taylor",
+		"salary": 507500
+	},
+	{
+		"player": "Gustave, Jandel",
+		"salary": 507500
+	},
+	{
+		"player": "Gutierrez, Franklin",
+		"salary": 1500000
+	},
+	{
+		"player": "Guyer, Brandon",
+		"salary": 1185000
+	},
+	{
+		"player": "Gyorko, Jedd",
+		"salary": 4000000
+	},
+	{
+		"player": "Hahn, Jesse",
+		"salary": 507500
+	},
+	{
+		"player": "Hale, David",
+		"salary": 507500
+	},
+	{
+		"player": "Haley, Trey",
+		"salary": 507500
+	},
+	{
+		"player": "Hall, Cody",
+		"salary": 507500
+	},
+	{
+		"player": "Hamels, Cole",
+		"salary": 23500000
+	},
+	{
+		"player": "Hamilton, Billy",
+		"salary": 507500
+	},
+	{
+		"player": "Hamilton, Josh",
+		"salary": 28410000
+	},
+	{
+		"player": "Hammel, Jason",
+		"salary": 9000000
+	},
+	{
+		"player": "Hand, Brad",
+		"salary": 507500
+	},
+	{
+		"player": "Hanigan, Ryan",
+		"salary": 3700000
+	},
+	{
+		"player": "Hanson, Alen",
+		"salary": 507500
+	},
+	{
+		"player": "Happ, J.A.",
+		"salary": 10000000
+	},
+	{
+		"player": "Hardy, Blaine",
+		"salary": 507500
+	},
+	{
+		"player": "Hardy, J.J.",
+		"salary": 12500000
+	},
+	{
+		"player": "Harper, Bryce",
+		"salary": 5000000
+	},
+	{
+		"player": "Harris, Mitch",
+		"salary": 507500
+	},
+	{
+		"player": "Harris, Will",
+		"salary": 507500
+	},
+	{
+		"player": "Harrison, Josh",
+		"salary": 5250000
+	},
+	{
+		"player": "Harrison, Matt",
+		"salary": 13200000
+	},
+	{
+		"player": "Harvey, Matt",
+		"salary": 4325000
+	},
+	{
+		"player": "Hatcher, Chris",
+		"salary": 1065000
+	},
+	{
+		"player": "Headley, Chase",
+		"salary": 13000000
+	},
+	{
+		"player": "Heaney, Andrew",
+		"salary": 507500
+	},
+	{
+		"player": "Heathcott, Slade",
+		"salary": 507500
+	},
+	{
+		"player": "Hechavarria, Adeiny",
+		"salary": 2625000
+	},
+	{
+		"player": "Hedges, Austin",
+		"salary": 507500
+	},
+	{
+		"player": "Hellickson, Jeremy",
+		"salary": 7000000
+	},
+	{
+		"player": "Hembree, Heath",
+		"salary": 507500
+	},
+	{
+		"player": "Hendricks, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Hendriks, Liam",
+		"salary": 507500
+	},
+	{
+		"player": "Heredia, Guillermo",
+		"salary": 507500
+	},
+	{
+		"player": "Hernandez, Cesar",
+		"salary": 507500
+	},
+	{
+		"player": "Hernandez, David",
+		"salary": 3900000
+	},
+	{
+		"player": "Hernandez, Enrique",
+		"salary": 507500
+	},
+	{
+		"player": "Hernandez, Felix",
+		"salary": 25857143
+	},
+	{
+		"player": "Hernandez, Marco",
+		"salary": 507500
+	},
+	{
+		"player": "Hernandez, Oscar",
+		"salary": 507500
+	},
+	{
+		"player": "Herrera, Dilson",
+		"salary": 507500
+	},
+	{
+		"player": "Herrera, Kelvin",
+		"salary": 2550000
+	},
+	{
+		"player": "Herrera, Odubel",
+		"salary": 507500
+	},
+	{
+		"player": "Herrmann, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Hessler, Keith",
+		"salary": 507500
+	},
+	{
+		"player": "Heston, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Heyward, Jason",
+		"salary": 17500000
+	},
+	{
+		"player": "Hicks, Aaron",
+		"salary": 507500
+	},
+	{
+		"player": "Hicks, John",
+		"salary": 507500
+	},
+	{
+		"player": "Hill, Aaron",
+		"salary": null
+	},
+	{
+		"player": "Hill, Rich",
+		"salary": 6000000
+	},
+	{
+		"player": "Hinojosa, Dalier",
+		"salary": 507500
+	},
+	{
+		"player": "Hochevar, Luke",
+		"salary": 5500000
+	},
+	{
+		"player": "Holaday, Bryan",
+		"salary": 507500
+	},
+	{
+		"player": "Holdzkom, John",
+		"salary": 507500
+	},
+	{
+		"player": "Holland, Derek",
+		"salary": 10000000
+	},
+	{
+		"player": "Hollands, Mario",
+		"salary": 507500
+	},
+	{
+		"player": "Holliday, Matt",
+		"salary": 17000000
+	},
+	{
+		"player": "Holt, Brock",
+		"salary": 507500
+	},
+	{
+		"player": "Holt, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Hoover, J.J.",
+		"salary": 1400000
+	},
+	{
+		"player": "Hosmer, Eric",
+		"salary": 8250000
+	},
+	{
+		"player": "House, T.J.",
+		"salary": 507500
+	},
+	{
+		"player": "Houser, Adrian",
+		"salary": 507500
+	},
+	{
+		"player": "Howard, Ryan",
+		"salary": 25000000
+	},
+	{
+		"player": "Howell, J.P.",
+		"salary": 6250000
+	},
+	{
+		"player": "Hudson, Daniel",
+		"salary": 2700000
+	},
+	{
+		"player": "Hughes, Jared",
+		"salary": 2175000
+	},
+	{
+		"player": "Hughes, Phil",
+		"salary": 9200000
+	},
+	{
+		"player": "Hundley, Nick",
+		"salary": 3150000
+	},
+	{
+		"player": "Hunter, Tommy",
+		"salary": 2000000
+	},
+	{
+		"player": "Hutchison, Drew",
+		"salary": 2200000
+	},
+	{
+		"player": "Iannetta, Chris",
+		"salary": 4250000
+	},
+	{
+		"player": "Iglesias, Jose",
+		"salary": 2100000
+	},
+	{
+		"player": "Iglesias, Raisel",
+		"salary": 3214286
+	},
+	{
+		"player": "Inciarte, Ender",
+		"salary": 507500
+	},
+	{
+		"player": "Infante, Omar",
+		"salary": 7750000
+	},
+	{
+		"player": "Iwakuma, Hisashi",
+		"salary": 11000000
+	},
+	{
+		"player": "Jackson, Austin",
+		"salary": 5000000
+	},
+	{
+		"player": "Jackson, Edwin",
+		"salary": 13000000
+	},
+	{
+		"player": "Jackson, Luke",
+		"salary": 507500
+	},
+	{
+		"player": "Jankowski, Travis",
+		"salary": 507500
+	},
+	{
+		"player": "Jansen, Kenley",
+		"salary": 10650000
+	},
+	{
+		"player": "Jaso, John",
+		"salary": 4000000
+	},
+	{
+		"player": "Jay, Jon",
+		"salary": 6850000
+	},
+	{
+		"player": "Jeffress, Jeremy",
+		"salary": 507500
+	},
+	{
+		"player": "Jenkins, Tyrell",
+		"salary": 507500
+	},
+	{
+		"player": "Jennings, Dan",
+		"salary": 810000
+	},
+	{
+		"player": "Jennings, Desmond",
+		"salary": 3300000
+	},
+	{
+		"player": "Jepsen, Kevin",
+		"salary": 5312500
+	},
+	{
+		"player": "Jerez, Williams",
+		"salary": 507500
+	},
+	{
+		"player": "Jimenez, A.J.",
+		"salary": 507500
+	},
+	{
+		"player": "Jimenez, Ubaldo",
+		"salary": 13000000
+	},
+	{
+		"player": "Johnson, Brian",
+		"salary": 507500
+	},
+	{
+		"player": "Johnson, Chris",
+		"salary": 7500000
+	},
+	{
+		"player": "Johnson, Erik",
+		"salary": 507500
+	},
+	{
+		"player": "Johnson, Jim",
+		"salary": 2500000
+	},
+	{
+		"player": "Johnson, Kelly",
+		"salary": 2000000
+	},
+	{
+		"player": "Johnson, Micah",
+		"salary": 507500
+	},
+	{
+		"player": "Johnson, Pierce",
+		"salary": 507500
+	},
+	{
+		"player": "Johnson, Stephen",
+		"salary": 507500
+	},
+	{
+		"player": "Jokisch, Eric",
+		"salary": 507500
+	},
+	{
+		"player": "Jones, Adam",
+		"salary": 16333333
+	},
+	{
+		"player": "Jones, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Jones, Nate",
+		"salary": 900000
+	},
+	{
+		"player": "Jones, Zach",
+		"salary": 507500
+	},
+	{
+		"player": "Jordan, Taylor",
+		"salary": 507500
+	},
+	{
+		"player": "Joseph, Caleb",
+		"salary": 507500
+	},
+	{
+		"player": "Jungmann, Taylor",
+		"salary": 507500
+	},
+	{
+		"player": "Kahnle, Tommy",
+		"salary": 507500
+	},
+	{
+		"player": "Kang, Jung-Ho",
+		"salary": 2500000
+	},
+	{
+		"player": "Karns, Nate",
+		"salary": 507500
+	},
+	{
+		"player": "Kazmir, Scott",
+		"salary": 12666667
+	},
+	{
+		"player": "Kela, Keone",
+		"salary": 507500
+	},
+	{
+		"player": "Kelley, Shawn",
+		"salary": 4000000
+	},
+	{
+		"player": "Kelly, Casey",
+		"salary": 507500
+	},
+	{
+		"player": "Kelly, Joe",
+		"salary": 2600000
+	},
+	{
+		"player": "Kemp, Matt",
+		"salary": 21750000
+	},
+	{
+		"player": "Kendrick, Howie",
+		"salary": 10000000
+	},
+	{
+		"player": "Kennedy, Ian",
+		"salary": 7500000
+	},
+	{
+		"player": "Kepler, Max",
+		"salary": 507500
+	},
+	{
+		"player": "Kershaw, Clayton",
+		"salary": 34571429
+	},
+	{
+		"player": "Keuchel, Dallas",
+		"salary": 7250000
+	},
+	{
+		"player": "Kieboom, Spencer",
+		"salary": 507500
+	},
+	{
+		"player": "Kiekhefer, Dean",
+		"salary": 507500
+	},
+	{
+		"player": "Kiermaier, Kevin",
+		"salary": 507500
+	},
+	{
+		"player": "Kim, Hyun-soo",
+		"salary": 2800000
+	},
+	{
+		"player": "Kimbrel, Craig",
+		"salary": 11250000
+	},
+	{
+		"player": "Kingham, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Kinsler, Ian",
+		"salary": 14000000
+	},
+	{
+		"player": "Kipnis, Jason",
+		"salary": 6166667
+	},
+	{
+		"player": "Kivlehan, Patrick",
+		"salary": 507500
+	},
+	{
+		"player": "Klein, Phil",
+		"salary": 507500
+	},
+	{
+		"player": "Kluber, Corey",
+		"salary": null
+	},
+	{
+		"player": "Knebel, Corey",
+		"salary": 507500
+	},
+	{
+		"player": "Koch, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Koehler, Tom",
+		"salary": 3500000
+	},
+	{
+		"player": "Kontos, George",
+		"salary": 1150000
+	},
+	{
+		"player": "Krol, Ian",
+		"salary": 507500
+	},
+	{
+		"player": "Kubitza, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "La Stella, Tommy",
+		"salary": 507500
+	},
+	{
+		"player": "Labourt, Jairo",
+		"salary": 507500
+	},
+	{
+		"player": "Lackey, John",
+		"salary": 16000000
+	},
+	{
+		"player": "Ladendorf, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Lagares, Juan",
+		"salary": 2500000
+	},
+	{
+		"player": "Lake, Junior",
+		"salary": 507500
+	},
+	{
+		"player": "Lamb, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Lamb, John",
+		"salary": 507500
+	},
+	{
+		"player": "Lambo, Andrew",
+		"salary": 507500
+	},
+	{
+		"player": "Landa, Yorman",
+		"salary": 507500
+	},
+	{
+		"player": "LaRoche, Adam",
+		"salary": 13000000
+	},
+	{
+		"player": "Latos, Mat",
+		"salary": 3000000
+	},
+	{
+		"player": "Law, Derek",
+		"salary": 507500
+	},
+	{
+		"player": "Lawrie, Brett",
+		"salary": 4125000
+	},
+	{
+		"player": "Layne, Tommy",
+		"salary": 507500
+	},
+	{
+		"player": "Lazo, Raudel",
+		"salary": 507500
+	},
+	{
+		"player": "Leake, Mike",
+		"salary": 12000000
+	},
+	{
+		"player": "Leclerc, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Lee, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Lee, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Lee, Zach",
+		"salary": 507500
+	},
+	{
+		"player": "LeMahieu, D.J.",
+		"salary": 3000000
+	},
+	{
+		"player": "Leon, Arnold",
+		"salary": 507500
+	},
+	{
+		"player": "Leone, Dominic",
+		"salary": 507500
+	},
+	{
+		"player": "Lester, Jon",
+		"salary": 25000000
+	},
+	{
+		"player": "Lewis, Colby",
+		"salary": 6000000
+	},
+	{
+		"player": "Liberatore, Adam",
+		"salary": 507500
+	},
+	{
+		"player": "Light, Pat",
+		"salary": 507500
+	},
+	{
+		"player": "Lind, Adam",
+		"salary": 8000000
+	},
+	{
+		"player": "Lindgren, Jacob",
+		"salary": 507500
+	},
+	{
+		"player": "Lindor, Francisco",
+		"salary": 507500
+	},
+	{
+		"player": "Liriano, Francisco",
+		"salary": 13666667
+	},
+	{
+		"player": "Liriano, Rymer",
+		"salary": 507500
+	},
+	{
+		"player": "Lobaton, Jose",
+		"salary": 1387500
+	},
+	{
+		"player": "Lobstein, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Locke, Jeff",
+		"salary": 3025000
+	},
+	{
+		"player": "Logan, Boone",
+		"salary": 6250000
+	},
+	{
+		"player": "Loney, James",
+		"salary": 9666667
+	},
+	{
+		"player": "Longoria, Evan",
+		"salary": 12100000
+	},
+	{
+		"player": "Lopez, Javier",
+		"salary": 5000000
+	},
+	{
+		"player": "Lopez, Jorge",
+		"salary": 507500
+	},
+	{
+		"player": "Lorenzen, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Loup, Aaron",
+		"salary": 1050000
+	},
+	{
+		"player": "Lowe, Mark",
+		"salary": 5500000
+	},
+	{
+		"player": "Lowrie, Jed",
+		"salary": 7500000
+	},
+	{
+		"player": "Lucroy, Jonathan",
+		"salary": 4350000
+	},
+	{
+		"player": "Lugo, Seth",
+		"salary": 507500
+	},
+	{
+		"player": "Lyles, Jordan",
+		"salary": 2975000
+	},
+	{
+		"player": "Lynn, Lance",
+		"salary": 7500000
+	},
+	{
+		"player": "Lyons, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Machado, Dixon",
+		"salary": 507500
+	},
+	{
+		"player": "Machado, Manny",
+		"salary": 5000000
+	},
+	{
+		"player": "Madson, Ryan",
+		"salary": 6666667
+	},
+	{
+		"player": "Maeda, Kenta",
+		"salary": 3125000
+	},
+	{
+		"player": "Magnifico, Damien",
+		"salary": 507500
+	},
+	{
+		"player": "Mahtook, Mikie",
+		"salary": 507500
+	},
+	{
+		"player": "Maile, Luke",
+		"salary": 507500
+	},
+	{
+		"player": "Maldonado, Martin",
+		"salary": 1125000
+	},
+	{
+		"player": "Maness, Seth",
+		"salary": 1400000
+	},
+	{
+		"player": "Manship, Jeff",
+		"salary": 760000
+	},
+	{
+		"player": "Margot, Manuel",
+		"salary": 507500
+	},
+	{
+		"player": "Mariot, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Marisnick, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Markakis, Nick",
+		"salary": 11000000
+	},
+	{
+		"player": "Marksberry, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Marquez, German",
+		"salary": 507500
+	},
+	{
+		"player": "Marrero, Deven",
+		"salary": 507500
+	},
+	{
+		"player": "Marshall, Evan",
+		"salary": 507500
+	},
+	{
+		"player": "Marte, Jefry",
+		"salary": 507500
+	},
+	{
+		"player": "Marte, Ketel",
+		"salary": 507500
+	},
+	{
+		"player": "Marte, Starling",
+		"salary": 3333333
+	},
+	{
+		"player": "Martin, Cody",
+		"salary": null
+	},
+	{
+		"player": "Martin, Josh",
+		"salary": 507500
+	},
+	{
+		"player": "Martin, Leonys",
+		"salary": 4150000
+	},
+	{
+		"player": "Martin, Rafael",
+		"salary": 507500
+	},
+	{
+		"player": "Martin, Russell",
+		"salary": 15000000
+	},
+	{
+		"player": "Martinez, Carlos",
+		"salary": 507500
+	},
+	{
+		"player": "Martinez, J.D.",
+		"salary": 6750000
+	},
+	{
+		"player": "Martinez, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Martinez, Nick",
+		"salary": 519190
+	},
+	{
+		"player": "Martinez, Victor",
+		"salary": 18000000
+	},
+	{
+		"player": "Mathis, Jeff",
+		"salary": 1500000
+	},
+	{
+		"player": "Matusz, Brian",
+		"salary": 3900000
+	},
+	{
+		"player": "Matz, Steven",
+		"salary": 507500
+	},
+	{
+		"player": "Matzek, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Mauer, Joe",
+		"salary": 23000000
+	},
+	{
+		"player": "Maurer, Brandon",
+		"salary": 507500
+	},
+	{
+		"player": "May, Trevor",
+		"salary": 507500
+	},
+	{
+		"player": "Maybin, Cameron",
+		"salary": 8100000
+	},
+	{
+		"player": "Mazara, Nomar",
+		"salary": 507500
+	},
+	{
+		"player": "Mazzoni, Cory",
+		"salary": 507500
+	},
+	{
+		"player": "McAllister, Zach",
+		"salary": 1300000
+	},
+	{
+		"player": "McCann, Brian",
+		"salary": 17000000
+	},
+	{
+		"player": "McCann, James",
+		"salary": 507500
+	},
+	{
+		"player": "McCarthy, Brandon",
+		"salary": 12500000
+	},
+	{
+		"player": "McCullers Jr., Lance",
+		"salary": 507500
+	},
+	{
+		"player": "McCutchen, Andrew",
+		"salary": 13208333
+	},
+	{
+		"player": "McFarland, Blake",
+		"salary": 507500
+	},
+	{
+		"player": "McFarland, T.J.",
+		"salary": null
+	},
+	{
+		"player": "McGee, Jake",
+		"salary": 4800000
+	},
+	{
+		"player": "McGough, Scott",
+		"salary": 507500
+	},
+	{
+		"player": "McHugh, Collin",
+		"salary": 507500
+	},
+	{
+		"player": "McKirahan, Andrew",
+		"salary": 507500
+	},
+	{
+		"player": "Medlen, Kris",
+		"salary": 5500000
+	},
+	{
+		"player": "Mejia, Adalberto",
+		"salary": 507500
+	},
+	{
+		"player": "Mejia, Jenrry",
+		"salary": 2470000
+	},
+	{
+		"player": "Melancon, Mark",
+		"salary": 9650000
+	},
+	{
+		"player": "Melotakis, Mason",
+		"salary": 507500
+	},
+	{
+		"player": "Mendez, Yohander",
+		"salary": null
+	},
+	{
+		"player": "Mercer, Jordy",
+		"salary": 2075000
+	},
+	{
+		"player": "Merritt, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Mesoraco, Devin",
+		"salary": 5025000
+	},
+	{
+		"player": "Meyer, Alex",
+		"salary": 507500
+	},
+	{
+		"player": "Miley, Wade",
+		"salary": 6166667
+	},
+	{
+		"player": "Miller, Andrew",
+		"salary": 9000000
+	},
+	{
+		"player": "Miller, Brad",
+		"salary": 507500
+	},
+	{
+		"player": "Miller, Justin",
+		"salary": 507500
+	},
+	{
+		"player": "Miller, Shelby",
+		"salary": 4350000
+	},
+	{
+		"player": "Mills, Alec",
+		"salary": 507500
+	},
+	{
+		"player": "Milone, Tom",
+		"salary": 4500000
+	},
+	{
+		"player": "Minaya, Juan",
+		"salary": 507500
+	},
+	{
+		"player": "Minor, Mike",
+		"salary": 2000000
+	},
+	{
+		"player": "Mitchell, Bryan",
+		"salary": 507500
+	},
+	{
+		"player": "Molina, Yadier",
+		"salary": 14200000
+	},
+	{
+		"player": "Mondesi, Raul Adalberto",
+		"salary": null
+	},
+	{
+		"player": "Montas, Frankie",
+		"salary": 507500
+	},
+	{
+		"player": "Montero, Jesus",
+		"salary": 507500
+	},
+	{
+		"player": "Montero, Miguel",
+		"salary": 14000000
+	},
+	{
+		"player": "Montero, Rafael",
+		"salary": 507500
+	},
+	{
+		"player": "Montgomery, Mike",
+		"salary": 507500
+	},
+	{
+		"player": "Moore, Matt",
+		"salary": 5100000
+	},
+	{
+		"player": "Moore, Tyler",
+		"salary": 900000
+	},
+	{
+		"player": "Morales, Kendrys",
+		"salary": 9000000
+	},
+	{
+		"player": "Moreland, Mitch",
+		"salary": 5700000
+	},
+	{
+		"player": "Morgan, Adam",
+		"salary": 507500
+	},
+	{
+		"player": "Morimando, Shawn",
+		"salary": 507500
+	},
+	{
+		"player": "Morin, Mike",
+		"salary": 507500
+	},
+	{
+		"player": "Moroff, Max",
+		"salary": 507500
+	},
+	{
+		"player": "Morris, Akeel",
+		"salary": 507500
+	},
+	{
+		"player": "Morris, Bryan",
+		"salary": 1350000
+	},
+	{
+		"player": "Morrison, Logan",
+		"salary": 4200000
+	},
+	{
+		"player": "Morse, Michael",
+		"salary": 8500000
+	},
+	{
+		"player": "Morton, Charlie",
+		"salary": 8000000
+	},
+	{
+		"player": "Moscot, Jon",
+		"salary": 507500
+	},
+	{
+		"player": "Moss, Brandon",
+		"salary": 8250000
+	},
+	{
+		"player": "Motte, Jason",
+		"salary": 5000000
+	},
+	{
+		"player": "Motter, Taylor",
+		"salary": 507500
+	},
+	{
+		"player": "Moustakas, Mike",
+		"salary": 5600000
+	},
+	{
+		"player": "Moya, Steven",
+		"salary": 507500
+	},
+	{
+		"player": "Muncy, Max",
+		"salary": 507500
+	},
+	{
+		"player": "Murphy, Daniel",
+		"salary": 8000000
+	},
+	{
+		"player": "Murphy, John Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Murphy, Tom",
+		"salary": 507500
+	},
+	{
+		"player": "Murray, Colton",
+		"salary": 507500
+	},
+	{
+		"player": "Musgrove, Joe",
+		"salary": 507500
+	},
+	{
+		"player": "Myers, Wil",
+		"salary": 507500
+	},
+	{
+		"player": "Napoli, Mike",
+		"salary": 7000000
+	},
+	{
+		"player": "Naquin, Taylor",
+		"salary": 507500
+	},
+	{
+		"player": "Nava, Daniel",
+		"salary": 1375000
+	},
+	{
+		"player": "Navarro, Dioner",
+		"salary": 4000000
+	},
+	{
+		"player": "Navarro, Rey",
+		"salary": 507500
+	},
+	{
+		"player": "Nelson, Jimmy",
+		"salary": 507500
+	},
+	{
+		"player": "Neris, Hector",
+		"salary": 507500
+	},
+	{
+		"player": "Nesbitt, Angel",
+		"salary": null
+	},
+	{
+		"player": "Neshek, Pat",
+		"salary": 6500000
+	},
+	{
+		"player": "Ngoepe, Gift",
+		"salary": 507500
+	},
+	{
+		"player": "Nicasio, Juan",
+		"salary": 3000000
+	},
+	{
+		"player": "Nicolino, Justin",
+		"salary": 507500
+	},
+	{
+		"player": "Niese, Jon",
+		"salary": 9050000
+	},
+	{
+		"player": "Nieuwenhuis, Kirk",
+		"salary": 507500
+	},
+	{
+		"player": "Nimmo, Brandon",
+		"salary": 507500
+	},
+	{
+		"player": "Nola, Aaron",
+		"salary": 507500
+	},
+	{
+		"player": "Nolasco, Ricky",
+		"salary": 12000000
+	},
+	{
+		"player": "Nolin, Sean",
+		"salary": 507500
+	},
+	{
+		"player": "Norris, Bud",
+		"salary": 2500000
+	},
+	{
+		"player": "Norris, Daniel",
+		"salary": 507500
+	},
+	{
+		"player": "Norris, Derek",
+		"salary": 2925000
+	},
+	{
+		"player": "Nova, Ivan",
+		"salary": 4100000
+	},
+	{
+		"player": "Nunez, Eduardo",
+		"salary": 1475000
+	},
+	{
+		"player": "Nunez, Renato",
+		"salary": 507500
+	},
+	{
+		"player": "Nuno, Vidal",
+		"salary": 507500
+	},
+	{
+		"player": "O'Brien, Pete",
+		"salary": 507500
+	},
+	{
+		"player": "O'Conner, Justin",
+		"salary": 507500
+	},
+	{
+		"player": "O'Day, Darren",
+		"salary": 6000000
+	},
+	{
+		"player": "O'Grady, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "O'Malley, Shawn",
+		"salary": 507500
+	},
+	{
+		"player": "O'Rourke, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Oberg, Scott",
+		"salary": 507500
+	},
+	{
+		"player": "Oberholtzer, Brett",
+		"salary": 507500
+	},
+	{
+		"player": "Odor, Rougned",
+		"salary": 522700
+	},
+	{
+		"player": "Odorizzi, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Ogando, Nefi",
+		"salary": 507500
+	},
+	{
+		"player": "Oh, Seung-hwan",
+		"salary": 5000000
+	},
+	{
+		"player": "Ohlman, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Okert, Steven",
+		"salary": 507500
+	},
+	{
+		"player": "Olivera, Hector",
+		"salary": 8666666
+	},
+	{
+		"player": "Olson, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Oretga, Rafael",
+		"salary": 507500
+	},
+	{
+		"player": "Orlando, Paulo",
+		"salary": 514250
+	},
+	{
+		"player": "Ortiz, David",
+		"salary": 16000000
+	},
+	{
+		"player": "Osich, Josh",
+		"salary": 507500
+	},
+	{
+		"player": "Osuna, Roberto",
+		"salary": 507500
+	},
+	{
+		"player": "Otero, Danny",
+		"salary": 507500
+	},
+	{
+		"player": "Ottavino, Adam",
+		"salary": 1300000
+	},
+	{
+		"player": "Owens, Henry",
+		"salary": 507500
+	},
+	{
+		"player": "Owings, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Ozuna, Marcell",
+		"salary": 507500
+	},
+	{
+		"player": "Pagan, Angel",
+		"salary": 11250000
+	},
+	{
+		"player": "Panik, Joe",
+		"salary": 507500
+	},
+	{
+		"player": "Papelbon, Jonathan",
+		"salary": 11000000
+	},
+	{
+		"player": "Paredes, Jimmy",
+		"salary": 507500
+	},
+	{
+		"player": "Park, Byung Ho",
+		"salary": 2750000
+	},
+	{
+		"player": "Parker, Jarrett",
+		"salary": 507500
+	},
+	{
+		"player": "Parker, Jarrod",
+		"salary": null
+	},
+	{
+		"player": "Parra, Gerardo",
+		"salary": null
+	},
+	{
+		"player": "Patton, Spencer",
+		"salary": 507500
+	},
+	{
+		"player": "Paulino, David",
+		"salary": 507500
+	},
+	{
+		"player": "Paulsen, Ben",
+		"salary": 507500
+	},
+	{
+		"player": "Paxton, James",
+		"salary": 507500
+	},
+	{
+		"player": "Pazos, James",
+		"salary": 507500
+	},
+	{
+		"player": "Peacock, Brad",
+		"salary": 507500
+	},
+	{
+		"player": "Pearce, Steve",
+		"salary": 4750000
+	},
+	{
+		"player": "Peavy, Jake",
+		"salary": 15000000
+	},
+	{
+		"player": "Pederson, Joc",
+		"salary": 507500
+	},
+	{
+		"player": "Pedroia, Dustin",
+		"salary": 13125000
+	},
+	{
+		"player": "Pelfrey, Mike",
+		"salary": 8000000
+	},
+	{
+		"player": "Pena, Ariel",
+		"salary": 507500
+	},
+	{
+		"player": "Pena, Brayan",
+		"salary": 2500000
+	},
+	{
+		"player": "Pena, Francisco",
+		"salary": 507500
+	},
+	{
+		"player": "Pence, Hunter",
+		"salary": 18500000
+	},
+	{
+		"player": "Pennington, Cliff",
+		"salary": 1500000
+	},
+	{
+		"player": "Peralta, David",
+		"salary": 507500
+	},
+	{
+		"player": "Peralta, Jhonny",
+		"salary": 12500000
+	},
+	{
+		"player": "Peralta, Wily",
+		"salary": 2800000
+	},
+	{
+		"player": "Peraza, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Perdomo, Luis",
+		"salary": 507500
+	},
+	{
+		"player": "Perez, Carlos",
+		"salary": 507500
+	},
+	{
+		"player": "Perez, Martin",
+		"salary": 3150000
+	},
+	{
+		"player": "Perez, Oliver",
+		"salary": 3000000
+	},
+	{
+		"player": "Perez, Roberto",
+		"salary": 507500
+	},
+	{
+		"player": "Perez, Salvador",
+		"salary": 2000000
+	},
+	{
+		"player": "Perez, Williams",
+		"salary": 507500
+	},
+	{
+		"player": "Perkins, Glen",
+		"salary": 6300000
+	},
+	{
+		"player": "Peterson, Jace",
+		"salary": 507500
+	},
+	{
+		"player": "Petit, Yusmeiro",
+		"salary": 2500000
+	},
+	{
+		"player": "Petricka, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Pham, Tommy",
+		"salary": 507500
+	},
+	{
+		"player": "Phegley, Josh",
+		"salary": 507500
+	},
+	{
+		"player": "Phelps, David",
+		"salary": 2500000
+	},
+	{
+		"player": "Phillips, Brandon",
+		"salary": 13000000
+	},
+	{
+		"player": "Phillips, Zach",
+		"salary": 507500
+	},
+	{
+		"player": "Pierzynski, A.J.",
+		"salary": 3000000
+	},
+	{
+		"player": "Pillar, Kevin",
+		"salary": 507500
+	},
+	{
+		"player": "Pinder, Branden",
+		"salary": 507500
+	},
+	{
+		"player": "Pineda, Michael",
+		"salary": 4300000
+	},
+	{
+		"player": "Pirela, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Piscotty, Stephen",
+		"salary": 507500
+	},
+	{
+		"player": "Plawecki, Kevin",
+		"salary": 507500
+	},
+	{
+		"player": "Plouffe, Trevor",
+		"salary": 7250000
+	},
+	{
+		"player": "Polanco, Gregory",
+		"salary": 507500
+	},
+	{
+		"player": "Polanco, Jorge",
+		"salary": 507500
+	},
+	{
+		"player": "Pollock, A.J.",
+		"salary": 3500000
+	},
+	{
+		"player": "Pomeranz, Drew",
+		"salary": 1350000
+	},
+	{
+		"player": "Pompey, Dalton",
+		"salary": 507500
+	},
+	{
+		"player": "Porcello, Rick",
+		"salary": 20125000
+	},
+	{
+		"player": "Posey, Buster",
+		"salary": 20777777
+	},
+	{
+		"player": "Powell, Boog",
+		"salary": null
+	},
+	{
+		"player": "Prado, Martin",
+		"salary": 11000000
+	},
+	{
+		"player": "Pressly, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Price, David",
+		"salary": 30000000
+	},
+	{
+		"player": "Profar, Jurickson",
+		"salary": 605000
+	},
+	{
+		"player": "Puig, Yasiel",
+		"salary": 7214286
+	},
+	{
+		"player": "Pujols, Albert",
+		"salary": 25000000
+	},
+	{
+		"player": "Putnam, Zach",
+		"salary": 975000
+	},
+	{
+		"player": "Quackenbush, Kevin",
+		"salary": 507500
+	},
+	{
+		"player": "Qualls, Chad",
+		"salary": 2250000
+	},
+	{
+		"player": "Quinn, Roman",
+		"salary": 507500
+	},
+	{
+		"player": "Quintana, Jose",
+		"salary": 5400000
+	},
+	{
+		"player": "Ramirez, Alexei",
+		"salary": 3000000
+	},
+	{
+		"player": "Ramirez, Erasmo",
+		"salary": 2375000
+	},
+	{
+		"player": "Ramirez, Hanley",
+		"salary": 22750000
+	},
+	{
+		"player": "Ramirez, Harold",
+		"salary": 507500
+	},
+	{
+		"player": "Ramirez, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Ramirez, Jose A.",
+		"salary": 507500
+	},
+	{
+		"player": "Ramirez, Neil",
+		"salary": 507500
+	},
+	{
+		"player": "Ramirez, Noe",
+		"salary": null
+	},
+	{
+		"player": "Ramos, A.J.",
+		"salary": null
+	},
+	{
+		"player": "Ramos, Edubray",
+		"salary": 507500
+	},
+	{
+		"player": "Ramos, Wilson",
+		"salary": 5350000
+	},
+	{
+		"player": "Ramsey, James",
+		"salary": 507500
+	},
+	{
+		"player": "Ranaudo, Anthony",
+		"salary": 507500
+	},
+	{
+		"player": "Rasmus, Colby",
+		"salary": 15800000
+	},
+	{
+		"player": "Rasmus, Cory",
+		"salary": null
+	},
+	{
+		"player": "Rasmussen, Rob",
+		"salary": 507500
+	},
+	{
+		"player": "Ravelo, Rangel",
+		"salary": 507500
+	},
+	{
+		"player": "Ravin, Josh",
+		"salary": 507500
+	},
+	{
+		"player": "Ray, Robbie",
+		"salary": 507500
+	},
+	{
+		"player": "Rea, Colin",
+		"salary": 507500
+	},
+	{
+		"player": "Realmuto, J.T.",
+		"salary": 507500
+	},
+	{
+		"player": "Reddick, Josh",
+		"salary": 6575000
+	},
+	{
+		"player": "Reed, Addison",
+		"salary": 5300000
+	},
+	{
+		"player": "Reed, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Refsnyder, Rob",
+		"salary": 507500
+	},
+	{
+		"player": "Reimold, Nolan",
+		"salary": 1300000
+	},
+	{
+		"player": "Rendon, Anthony",
+		"salary": 2800000
+	},
+	{
+		"player": "Revere, Ben",
+		"salary": 6250000
+	},
+	{
+		"player": "Reyes, Jose",
+		"salary": 22000000
+	},
+	{
+		"player": "Reynolds, Danny",
+		"salary": 507500
+	},
+	{
+		"player": "Reynolds, Mark",
+		"salary": 2600000
+	},
+	{
+		"player": "Reynolds, Matt",
+		"salary": 675000
+	},
+	{
+		"player": "Reynolds, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Richard, Clayton",
+		"salary": 2000000
+	},
+	{
+		"player": "Richards, Garrett",
+		"salary": 6425000
+	},
+	{
+		"player": "Rickard, Joey",
+		"salary": 507500
+	},
+	{
+		"player": "Riefenhauser, C.J.",
+		"salary": 507500
+	},
+	{
+		"player": "Rivera, Rene",
+		"salary": 1700000
+	},
+	{
+		"player": "Rivera, Yadiel",
+		"salary": 507500
+	},
+	{
+		"player": "Rivero, Felipe",
+		"salary": 507500
+	},
+	{
+		"player": "Rizzo, Anthony",
+		"salary": 5285714
+	},
+	{
+		"player": "Roark, Tanner",
+		"salary": 507500
+	},
+	{
+		"player": "Robertson, David",
+		"salary": 11000000
+	},
+	{
+		"player": "Robertson, Montreal",
+		"salary": 507500
+	},
+	{
+		"player": "Robinson, Clint",
+		"salary": 507500
+	},
+	{
+		"player": "Robles, Hansel",
+		"salary": 507500
+	},
+	{
+		"player": "Rodney, Fernando",
+		"salary": 1600000
+	},
+	{
+		"player": "Rodon, Carlos",
+		"salary": 507500
+	},
+	{
+		"player": "Rodriguez, Alex",
+		"salary": 21000000
+	},
+	{
+		"player": "Rodriguez, Eduardo",
+		"salary": 507500
+	},
+	{
+		"player": "Rodriguez, Fernando",
+		"salary": 1050000
+	},
+	{
+		"player": "Rodriguez, Francisco",
+		"salary": 7500000
+	},
+	{
+		"player": "Rodriguez, Paco",
+		"salary": 507500
+	},
+	{
+		"player": "Rodriguez, Sean",
+		"salary": 2500000
+	},
+	{
+		"player": "Rodriguez, Yorman",
+		"salary": 507500
+	},
+	{
+		"player": "Roe, Chaz",
+		"salary": 507500
+	},
+	{
+		"player": "Rogers, Jason",
+		"salary": 507500
+	},
+	{
+		"player": "Rogers, Taylor",
+		"salary": 507500
+	},
+	{
+		"player": "Rojas, Miguel",
+		"salary": 507500
+	},
+	{
+		"player": "Rollins, David",
+		"salary": 507500
+	},
+	{
+		"player": "Romano, Sal",
+		"salary": 507500
+	},
+	{
+		"player": "Romero, Enny",
+		"salary": 507500
+	},
+	{
+		"player": "Romero, Stefen",
+		"salary": 507500
+	},
+	{
+		"player": "Romine, Andrew",
+		"salary": 900000
+	},
+	{
+		"player": "Romine, Austin",
+		"salary": 507500
+	},
+	{
+		"player": "Romo, Sergio",
+		"salary": 9000000
+	},
+	{
+		"player": "Rondon, Bruce",
+		"salary": 507500
+	},
+	{
+		"player": "Rondon, Hector",
+		"salary": 4200000
+	},
+	{
+		"player": "Rondon, Jose",
+		"salary": null
+	},
+	{
+		"player": "Rosario, Eddie",
+		"salary": 507500
+	},
+	{
+		"player": "Rosario, Randy",
+		"salary": 507500
+	},
+	{
+		"player": "Rosenthal, Trevor",
+		"salary": 5600000
+	},
+	{
+		"player": "Ross, David",
+		"salary": 2500000
+	},
+	{
+		"player": "Ross, Joe",
+		"salary": 507500
+	},
+	{
+		"player": "Ross, Robbie",
+		"salary": 1250000
+	},
+	{
+		"player": "Ross, Tyson",
+		"salary": 9625000
+	},
+	{
+		"player": "Rosscup, Zac",
+		"salary": null
+	},
+	{
+		"player": "Rowen, Ben",
+		"salary": 507500
+	},
+	{
+		"player": "Rua, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Ruf, Darin",
+		"salary": 507500
+	},
+	{
+		"player": "Ruggiano, Justin",
+		"salary": 1650000
+	},
+	{
+		"player": "Ruiz, Carlos",
+		"salary": 8500000
+	},
+	{
+		"player": "Rumbelow, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Rupp, Cameron",
+		"salary": 507500
+	},
+	{
+		"player": "Rusin, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Russell, Addison",
+		"salary": 507500
+	},
+	{
+		"player": "Rutckyj, Evan",
+		"salary": 507500
+	},
+	{
+		"player": "Ryan, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Ryu, Hyun-Jin",
+		"salary": 7833333
+	},
+	{
+		"player": "Rzepczynski, Marc",
+		"salary": 2950000
+	},
+	{
+		"player": "Sabathia, CC",
+		"salary": 25000000
+	},
+	{
+		"player": "Sadzeck, Connor",
+		"salary": 507500
+	},
+	{
+		"player": "Saladino, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Salas, Fernando",
+		"salary": 2400000
+	},
+	{
+		"player": "Salazar, Danny",
+		"salary": 507500
+	},
+	{
+		"player": "Sale, Chris",
+		"salary": 9150000
+	},
+	{
+		"player": "Saltalamacchia, Jarrod",
+		"salary": 507500
+	},
+	{
+		"player": "Samardzija, Jeff",
+		"salary": 10800000
+	},
+	{
+		"player": "Sampson, Keyvius",
+		"salary": 507500
+	},
+	{
+		"player": "Sanchez, Aaron",
+		"salary": null
+	},
+	{
+		"player": "Sanchez, Anibal",
+		"salary": 16800000
+	},
+	{
+		"player": "Sanchez, Carlos",
+		"salary": 507500
+	},
+	{
+		"player": "Sanchez, Gary",
+		"salary": 507500
+	},
+	{
+		"player": "Sandoval, Pablo",
+		"salary": 17600000
+	},
+	{
+		"player": "Sands, Jerry",
+		"salary": 507500
+	},
+	{
+		"player": "Sano, Miguel Jean",
+		"salary": 507500
+	},
+	{
+		"player": "Santana, Carlos",
+		"salary": 8450000
+	},
+	{
+		"player": "Santana, Danny",
+		"salary": 507500
+	},
+	{
+		"player": "Santana, Domingo",
+		"salary": 507500
+	},
+	{
+		"player": "Santana, Ervin",
+		"salary": 13500000
+	},
+	{
+		"player": "Santiago, Hector",
+		"salary": 5000000
+	},
+	{
+		"player": "Sardinas, Luis",
+		"salary": 507500
+	},
+	{
+		"player": "Saunders, Michael",
+		"salary": 2900000
+	},
+	{
+		"player": "Scahill, Rob",
+		"salary": 507500
+	},
+	{
+		"player": "Schebler, Scott",
+		"salary": 507500
+	},
+	{
+		"player": "Scheppers, Tanner",
+		"salary": 900000
+	},
+	{
+		"player": "Scherzer, Max",
+		"salary": 22142857
+	},
+	{
+		"player": "Schoop, Jonathan",
+		"salary": 507500
+	},
+	{
+		"player": "Schultz, Bo",
+		"salary": 507500
+	},
+	{
+		"player": "Schwarber, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Scribner, Evan",
+		"salary": 807500
+	},
+	{
+		"player": "Seager, Corey",
+		"salary": 507500
+	},
+	{
+		"player": "Seager, Kyle",
+		"salary": 8000000
+	},
+	{
+		"player": "Segura, Jean",
+		"salary": 2600000
+	},
+	{
+		"player": "Semien, Marcus",
+		"salary": 507500
+	},
+	{
+		"player": "Senzatela, Antonio",
+		"salary": 507500
+	},
+	{
+		"player": "Severino, Luis",
+		"salary": 507500
+	},
+	{
+		"player": "Severino, Pedro",
+		"salary": 507500
+	},
+	{
+		"player": "Shaffer, Richie",
+		"salary": 507500
+	},
+	{
+		"player": "Shaw, Bryan",
+		"salary": 2750000
+	},
+	{
+		"player": "Shaw, Travis",
+		"salary": 507500
+	},
+	{
+		"player": "Shields, James",
+		"salary": 21000000
+	},
+	{
+		"player": "Shoemaker, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Shreve, Chasen",
+		"salary": 507500
+	},
+	{
+		"player": "Shuck, J.B.",
+		"salary": 507500
+	},
+	{
+		"player": "Siegrist, Kevin",
+		"salary": 507500
+	},
+	{
+		"player": "Sierra, Yaisel",
+		"salary": 2000000
+	},
+	{
+		"player": "Simmons, Andrelton",
+		"salary": 6142857
+	},
+	{
+		"player": "Simmons, Shae",
+		"salary": 507500
+	},
+	{
+		"player": "Singleton, Jonathan",
+		"salary": null
+	},
+	{
+		"player": "Sipp, Tony",
+		"salary": 6000000
+	},
+	{
+		"player": "Skaggs, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Skipworth, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Smith, Blake",
+		"salary": 507500
+	},
+	{
+		"player": "Smith, Carson",
+		"salary": 507500
+	},
+	{
+		"player": "Smith, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Smith, Joe",
+		"salary": 5250000
+	},
+	{
+		"player": "Smith, Kevan",
+		"salary": 507500
+	},
+	{
+		"player": "Smith, Mallex",
+		"salary": 507500
+	},
+	{
+		"player": "Smith, Seth",
+		"salary": 6750000
+	},
+	{
+		"player": "Smith, Will",
+		"salary": 1475000
+	},
+	{
+		"player": "Smoak, Justin",
+		"salary": 3900000
+	},
+	{
+		"player": "Smoker, Josh",
+		"salary": 507500
+	},
+	{
+		"player": "Smolinski, Jake",
+		"salary": 507500
+	},
+	{
+		"player": "Smyly, Drew",
+		"salary": 3750000
+	},
+	{
+		"player": "Snell, Blake",
+		"salary": 507500
+	},
+	{
+		"player": "Socolovich, Miguel",
+		"salary": 507500
+	},
+	{
+		"player": "Sogard, Eric",
+		"salary": 1500000
+	},
+	{
+		"player": "Solarte, Yangervis",
+		"salary": 507500
+	},
+	{
+		"player": "Soler, Jorge",
+		"salary": 3666667
+	},
+	{
+		"player": "Solis, Sammy",
+		"salary": 507500
+	},
+	{
+		"player": "Soria, Joakim",
+		"salary": 7000000
+	},
+	{
+		"player": "Soto, Geovany",
+		"salary": 2800000
+	},
+	{
+		"player": "Soto, Giovanni",
+		"salary": 507500
+	},
+	{
+		"player": "Souza, Steven",
+		"salary": 507500
+	},
+	{
+		"player": "Span, Denard",
+		"salary": 5000000
+	},
+	{
+		"player": "Spangenberg, Cory",
+		"salary": 507500
+	},
+	{
+		"player": "Springer, George",
+		"salary": 507500
+	},
+	{
+		"player": "Stanton, Giancarlo",
+		"salary": 9000000
+	},
+	{
+		"player": "Starling, Bubba",
+		"salary": 507500
+	},
+	{
+		"player": "Stassi, Max",
+		"salary": 507500
+	},
+	{
+		"player": "Stephenson, Robert",
+		"salary": 507500
+	},
+	{
+		"player": "Stewart, Chris",
+		"salary": 1350000
+	},
+	{
+		"player": "Storen, Drew",
+		"salary": 8375000
+	},
+	{
+		"player": "Story, Trevor",
+		"salary": 507500
+	},
+	{
+		"player": "Strahm, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Straily, Dan",
+		"salary": 507500
+	},
+	{
+		"player": "Strasburg, Stephen",
+		"salary": 10400000
+	},
+	{
+		"player": "Stratton, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Street, Huston",
+		"salary": 8000000
+	},
+	{
+		"player": "Strickland, Hunter",
+		"salary": 507500
+	},
+	{
+		"player": "Stripling, Ross",
+		"salary": null
+	},
+	{
+		"player": "Stroman, Marcus",
+		"salary": 507500
+	},
+	{
+		"player": "Strong, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Strop, Pedro",
+		"salary": 4400000
+	},
+	{
+		"player": "Stumpf, Daniel",
+		"salary": 507500
+	},
+	{
+		"player": "Suarez, Eugenio",
+		"salary": 507500
+	},
+	{
+		"player": "Sucre, Jesus",
+		"salary": 507500
+	},
+	{
+		"player": "Susac, Andrew",
+		"salary": 507500
+	},
+	{
+		"player": "Suzuki, Ichiro",
+		"salary": 2000000
+	},
+	{
+		"player": "Suzuki, Kurt",
+		"salary": 6000000
+	},
+	{
+		"player": "Sweeney, Darnell",
+		"salary": 507500
+	},
+	{
+		"player": "Swihart, Blake",
+		"salary": 507500
+	},
+	{
+		"player": "Swisher, Nick",
+		"salary": 15000000
+	},
+	{
+		"player": "Syndergaard, Noah",
+		"salary": 507500
+	},
+	{
+		"player": "Szczur, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Taillon, Jameson",
+		"salary": 507500
+	},
+	{
+		"player": "Tanaka, Masahiro",
+		"salary": 22000000
+	},
+	{
+		"player": "Tapia, Raimel",
+		"salary": 507500
+	},
+	{
+		"player": "Taylor, Chris",
+		"salary": 507500
+	},
+	{
+		"player": "Taylor, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Tazawa, Junichi",
+		"salary": 3375000
+	},
+	{
+		"player": "Teheran, Julio",
+		"salary": 3466666
+	},
+	{
+		"player": "Teixeira, Mark",
+		"salary": 23125000
+	},
+	{
+		"player": "Tejada, Ruben",
+		"salary": 3000000
+	},
+	{
+		"player": "Telis, Tomas",
+		"salary": 507500
+	},
+	{
+		"player": "Tepera, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Thole, Josh",
+		"salary": 800000
+	},
+	{
+		"player": "Thomas, Ian",
+		"salary": 507500
+	},
+	{
+		"player": "Thompson, Trayce",
+		"salary": 507500
+	},
+	{
+		"player": "Thornburg, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Tillman, Chris",
+		"salary": 6225000
+	},
+	{
+		"player": "Tilson, Charlie",
+		"salary": 507500
+	},
+	{
+		"player": "Tolleson, Shawn",
+		"salary": 3275000
+	},
+	{
+		"player": "Tomas, Yasmany",
+		"salary": 7500000
+	},
+	{
+		"player": "Tomlin, Josh",
+		"salary": 2250000
+	},
+	{
+		"player": "Tomlinson, Kelby",
+		"salary": 507500
+	},
+	{
+		"player": "Tonkin, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Torres, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Torres, Ramon",
+		"salary": 507500
+	},
+	{
+		"player": "Torreyes, Ronnie",
+		"salary": 507500
+	},
+	{
+		"player": "Travis, Devon",
+		"salary": 507500
+	},
+	{
+		"player": "Treinen, Blake",
+		"salary": 507500
+	},
+	{
+		"player": "Triggs, Andrew",
+		"salary": 507500
+	},
+	{
+		"player": "Tropeano, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Trout, Mike",
+		"salary": null
+	},
+	{
+		"player": "Trumbo, Mark",
+		"salary": 9150000
+	},
+	{
+		"player": "Tucker, Preston",
+		"salary": 507500
+	},
+	{
+		"player": "Tuivailala, Sam",
+		"salary": 507500
+	},
+	{
+		"player": "Tulowitzki, Troy",
+		"salary": 20000000
+	},
+	{
+		"player": "Turner, Jacob",
+		"salary": 1500000
+	},
+	{
+		"player": "Turner, Justin",
+		"salary": 5100000
+	},
+	{
+		"player": "Turner, Trea",
+		"salary": 507500
+	},
+	{
+		"player": "Uehara, Koji",
+		"salary": 9000000
+	},
+	{
+		"player": "Upton, Justin",
+		"salary": 22125000
+	},
+	{
+		"player": "Upton, Melvin Jr.",
+		"salary": 16050000
+	},
+	{
+		"player": "Urena, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Uribe, Juan",
+		"salary": 4000000
+	},
+	{
+		"player": "Urrutia, Henry",
+		"salary": 507500
+	},
+	{
+		"player": "Urshela, Giovanny",
+		"salary": 507500
+	},
+	{
+		"player": "Utley, Chase",
+		"salary": 7000000
+	},
+	{
+		"player": "Valbuena, Luis",
+		"salary": 6125000
+	},
+	{
+		"player": "Valdez, Jose",
+		"salary": 507500
+	},
+	{
+		"player": "Valencia, Danny",
+		"salary": 3150000
+	},
+	{
+		"player": "Van Slyke, Scott",
+		"salary": 1225000
+	},
+	{
+		"player": "Vargas, Cesar",
+		"salary": 507500
+	},
+	{
+		"player": "Vargas, Jason",
+		"salary": 8500000
+	},
+	{
+		"player": "Vargas, Kennys",
+		"salary": null
+	},
+	{
+		"player": "Vazquez, Christian",
+		"salary": 507500
+	},
+	{
+		"player": "Velasquez, Vincent",
+		"salary": 507500
+	},
+	{
+		"player": "Venditte, Pat",
+		"salary": 507500
+	},
+	{
+		"player": "Ventura, Yordano",
+		"salary": 1200000
+	},
+	{
+		"player": "VerHagen, Drew",
+		"salary": 507500
+	},
+	{
+		"player": "Verlander, Justin",
+		"salary": 28000000
+	},
+	{
+		"player": "Verrett, Logan",
+		"salary": 507500
+	},
+	{
+		"player": "Villanueva, Carlos",
+		"salary": 1500000
+	},
+	{
+		"player": "Villanueva, Christian",
+		"salary": 507500
+	},
+	{
+		"player": "Villar, Jonathan",
+		"salary": 507500
+	},
+	{
+		"player": "Vincent, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Vizcaino, Arodys",
+		"salary": 897500
+	},
+	{
+		"player": "Vogelbach, Dan",
+		"salary": 507500
+	},
+	{
+		"player": "Vogelsong, Ryan",
+		"salary": 2000000
+	},
+	{
+		"player": "Vogt, Stephen",
+		"salary": 507500
+	},
+	{
+		"player": "Volquez, Edinson",
+		"salary": 9500000
+	},
+	{
+		"player": "Votto, Joey",
+		"salary": 20000000
+	},
+	{
+		"player": "Wacha, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Wagner, Tyler",
+		"salary": null
+	},
+	{
+		"player": "Wainwright, Adam",
+		"salary": 19500000
+	},
+	{
+		"player": "Walden, Jordan",
+		"salary": 3675000
+	},
+	{
+		"player": "Waldrop, Kyle",
+		"salary": null
+	},
+	{
+		"player": "Walker, Adam",
+		"salary": 507500
+	},
+	{
+		"player": "Walker, Christian",
+		"salary": 507500
+	},
+	{
+		"player": "Walker, Neil",
+		"salary": 10550000
+	},
+	{
+		"player": "Walker, Taijuan",
+		"salary": 507500
+	},
+	{
+		"player": "Wallace, Brett",
+		"salary": 1000000
+	},
+	{
+		"player": "Walsh, Colin",
+		"salary": 507500
+	},
+	{
+		"player": "Walters, Jeff",
+		"salary": 507500
+	},
+	{
+		"player": "Walters, Zach",
+		"salary": 507500
+	},
+	{
+		"player": "Warren, Adam",
+		"salary": 1700000
+	},
+	{
+		"player": "Watson, Tony",
+		"salary": 3450000
+	},
+	{
+		"player": "Weaver, Jered",
+		"salary": 20200000
+	},
+	{
+		"player": "Webb, Daniel",
+		"salary": 507500
+	},
+	{
+		"player": "Webb, Ryan",
+		"salary": 1000000
+	},
+	{
+		"player": "Weber, Ryan",
+		"salary": 507500
+	},
+	{
+		"player": "Wendelken, J.B.",
+		"salary": 507500
+	},
+	{
+		"player": "Wendle, Joey",
+		"salary": 507500
+	},
+	{
+		"player": "Werth, Jayson",
+		"salary": 21571429
+	},
+	{
+		"player": "Wheeler, Zack",
+		"salary": 507500
+	},
+	{
+		"player": "Whitley, Chase",
+		"salary": 507500
+	},
+	{
+		"player": "Wieland, Joe",
+		"salary": 590000
+	},
+	{
+		"player": "Wieters, Matt",
+		"salary": 15800000
+	},
+	{
+		"player": "Wilhelmsen, Tom",
+		"salary": 3100000
+	},
+	{
+		"player": "Wilkins, Andy",
+		"salary": 507500
+	},
+	{
+		"player": "Williams, Mason",
+		"salary": 507500
+	},
+	{
+		"player": "Williamson, Mac",
+		"salary": 507500
+	},
+	{
+		"player": "Wilson, Alex",
+		"salary": 507500
+	},
+	{
+		"player": "Wilson, C.J.",
+		"salary": 20500000
+	},
+	{
+		"player": "Wilson, Justin",
+		"salary": 1525000
+	},
+	{
+		"player": "Wilson, Tyler",
+		"salary": 507500
+	},
+	{
+		"player": "Winkler, Daniel",
+		"salary": 507500
+	},
+	{
+		"player": "Wisler, Matt",
+		"salary": 507500
+	},
+	{
+		"player": "Withrow, Chris",
+		"salary": 610000
+	},
+	{
+		"player": "Wittgren, Nick",
+		"salary": 507500
+	},
+	{
+		"player": "Wojciechowski, Asher",
+		"salary": 507500
+	},
+	{
+		"player": "Wolters, Tony",
+		"salary": 507500
+	},
+	{
+		"player": "Wong, Kolten",
+		"salary": 1250000
+	},
+	{
+		"player": "Wood, Alex",
+		"salary": 507500
+	},
+	{
+		"player": "Wood, Blake",
+		"salary": 507500
+	},
+	{
+		"player": "Wood, Travis",
+		"salary": 6170000
+	},
+	{
+		"player": "Workman, Brandon",
+		"salary": 507500
+	},
+	{
+		"player": "Worley, Vance",
+		"salary": 2600000
+	},
+	{
+		"player": "Wright, David",
+		"salary": 20000000
+	},
+	{
+		"player": "Wright, Mike",
+		"salary": 507500
+	},
+	{
+		"player": "Wright, Steve",
+		"salary": 507500
+	},
+	{
+		"player": "Yates, Kirby",
+		"salary": 507500
+	},
+	{
+		"player": "Yelich, Christian",
+		"salary": 1000000
+	},
+	{
+		"player": "Ynoa, Gabriel",
+		"salary": 507500
+	},
+	{
+		"player": "Ynoa, Michael",
+		"salary": 507500
+	},
+	{
+		"player": "Ynoa, Rafael",
+		"salary": 507500
+	},
+	{
+		"player": "Young, Chris",
+		"salary": 6500000
+	},
+	{
+		"player": "Young, Chris",
+		"salary": 4250000
+	},
+	{
+		"player": "Ziegler, Brad",
+		"salary": 5500000
+	},
+	{
+		"player": "Zimmer, Kyle",
+		"salary": 507500
+	},
+	{
+		"player": "Zimmerman, Ryan",
+		"salary": 14000000
+	},
+	{
+		"player": "Zimmermann, Jordan",
+		"salary": 18000000
+	},
+	{
+		"player": "Zobrist, Ben",
+		"salary": 10500000
+	},
+	{
+		"player": "Zunino, Mike",
+		"salary": 507500
+	},
+	{
+		"player": "Zych, Tony",
+		"salary": 507500
+	}
+]
