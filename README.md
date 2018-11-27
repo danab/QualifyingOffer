@@ -53,4 +53,4 @@ npm install
 npm start
 ```
 
-You can also view the code live at [https://vigorous-keller-7b65e5.netlify.com/](https://vigorous-keller-7b65e5.netlify.com/)
+You can also view the code live at [https://predicting-the-qo.netlify.com/](https://vigorous-keller-7b65e5.netlify.com/)
